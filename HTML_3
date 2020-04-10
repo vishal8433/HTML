@@ -1,0 +1,39 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  
+  <html>
+    <head>
+    <title>
+    demo page
+    </title>
+    <style>
+        v1{
+            color:#009900;
+            font-size:46px; 
+        }
+        p{
+            color: #000000;
+            font-size:46px;         
+        }
+    </style>
+    </head>
+    <body>
+        <hr>
+        <v1>
+            hey! how are you?<br>
+            hey! how are you?<br>
+            hey! how are you?<br>
+            hey! how are you?<br>
+        </v1>
+        <hr>
+        <p>
+            i am fine <br>
+            i am fine <br>
+            i am fine <br>
+            i am fine <br>
+        </p>
+        <hr>
+    </body>
+<html>

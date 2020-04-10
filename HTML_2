@@ -1,0 +1,25 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head> 
+    <title>Ajitech.com</title>
+    <style> 
+        h1{
+        color :#009900 ;
+        font-size :46px;
+        }
+        p{
+        color: #4B0082
+        font-size:17px;
+        margin-top:-25px;
+        margin-left:-5px;
+        }
+    </style>
+    </head>
+    <body> 
+        <h1>Ajitech.com</h1>
+        <p>********web devloping site******</p>
+    </body>
+</html>

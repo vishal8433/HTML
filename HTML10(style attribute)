@@ -1,0 +1,14 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>style attribute</title>
+    </head>
+    <body>
+        <h2 style="font-family:Chaparral Pro Light ;"> Hello vishal jain</h2>
+        <h3 style="font-size: 30px ;">hello vishal jain </h3>
+        <h2 style="color: #009900 ;"> hello vishal jain</h2>
+        <h2 style="text-align: center;"> hello vishal jain</h2>
+    </body>
+</html>

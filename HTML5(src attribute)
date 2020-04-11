@@ -1,0 +1,12 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>src attribute</title>
+    </head>
+    <body>
+        <img src="https://unsplash.com/photos/NjpvdAEni4Q">
+    </body>
+</html>

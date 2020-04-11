@@ -1,0 +1,11 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>title attribute</title>
+    </head>
+    <body>
+        <h3 title="hello everyone">hover to see the effect</h3>
+    </body>
+</html>

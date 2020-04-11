@@ -1,0 +1,12 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>link attribute</title>
+    </head>
+    <body>
+        <a href="https://github.com/vishal8433/java">click to open java repository in the same tab </a><br>
+        <a href="https://github.com/vishal8433">click to open vishal jain github account in the same tab </a>
+    </body>
+</html>

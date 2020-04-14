@@ -1,0 +1,13 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>display_paragraph</title>
+    </head>
+    <body>
+        <p>This paragraph has a multiple lines . but HTML reduce them into a single line. ommitting the carriage return we have used. </p>
+        <p>This    paragraph    has   multiple spaces . but HTML reduce them into a single line. ommitting the extra spaces and line we have used.<p>
+    </body>
+</html>

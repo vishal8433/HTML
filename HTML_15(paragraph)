@@ -1,0 +1,15 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>paragraph</title>
+    </head>
+    <body>
+        <p align="center">WELCOME VISHAL JAIN!</p>
+        <p align="left">THIS IS A WEBDEVELOPING SITE.</p>
+        <p align="right">WE HAVE BEST FEATURES FOR YOU.</p>
+    </body>
+</html>

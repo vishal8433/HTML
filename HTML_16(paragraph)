@@ -1,0 +1,25 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  
+  <!DOCTYPE>
+<html>
+    <head>
+        <title>paragraph</title>
+    </head>
+    <body>
+        <pre>
+        This paragraph has multiple
+        lines.nut it is display as 
+        it is unlike the paragraph
+        tag.
+        </pre>
+        <pre>
+        This paragraph    has     
+        multiple   spaces,   but it 
+        is   display as    it is   
+        unlike the   paragraph tag.
+        </pre>
+    </body>
+</html>

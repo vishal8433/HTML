@@ -1,0 +1,13 @@
+/*created by-vishal jain
+  editor-brackets app*/
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>paragraph</title>
+    </head>
+    <body>
+        <p>This is a webdeveloping site.</p>
+        <p>You find better developer here.</p>
+    </body>
+</html>

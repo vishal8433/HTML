@@ -1,0 +1,15 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>italic</title>
+    </head>
+    <body>
+        <p>hello vishal jain</p>
+        <p><i>hello vishal jain</i></p>
+        <p><em>hello vishal jain</em></p>
+    </body>
+</html>

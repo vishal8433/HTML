@@ -1,0 +1,14 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>blockquotes</title>
+    </head>
+    <body>
+        <h3>AJITECH.COM</h3>
+        <P><blockquote>this is a webdeveloping site</blockquote></P>
+    </body>
+</html>

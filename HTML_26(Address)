@@ -1,0 +1,16 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>Address</title>
+    </head>
+    <body>
+        <h3>WELCOME TO THE ajitech.com</h3>
+        <address>
+            <p>Address:<br>
+                GLA university mathura</p>
+        </address>
+    </body>
+</html>

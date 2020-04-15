@@ -1,0 +1,14 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>subscript or superscript</title>
+    </head>
+    <body>
+        <p>hello vishal jain</p>
+        <p>hello<sup> vishal jain</sup></p>
+        <p>hello<sub> vishal jain</sub></p>
+    </body>
+</html>

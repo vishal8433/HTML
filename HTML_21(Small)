@@ -1,0 +1,13 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>small</title>
+    </head>
+    <body>
+        <p>hello vishal jain</p>
+        <p><small>hello vishal jain</small></p>
+    </body>
+</html>

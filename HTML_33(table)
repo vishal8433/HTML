@@ -1,0 +1,42 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE hhtml>
+<html>
+    <head>
+        <title>information table</title>
+        <style>
+            table,th,td {
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
+            th,td{
+                padding: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <table style="width: 100%">
+            <tr>
+                <th>name</th>
+                <th>age</th>
+                <th>phone no.</th>
+            </tr>
+            <tr>
+                <td>vishal jain</td>
+                <td>20</td>
+                <td>8433******</td>
+            </tr>
+            <tr>
+                <td>rahul verma</td>
+                <td>21</td>
+                <td>7017******</td>
+            </tr>
+            <tr>
+                <td>suryansh saxena</td>
+                <td>21</td>
+                <td>7988******</td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>informationlist</title>
+    </head>
+    <body>
+        <h2>GROCERY LIST</h2>
+        <ul>
+            <li>Bread</li>
+            <li>Eggs</li>
+            <li>Milk</li>
+            <li>Coffee</li>
+        </ul>
+    </body>
+</html>

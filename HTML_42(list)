@@ -1,0 +1,19 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>information list</title>
+    </head>
+    <body>
+        <h2>unordered list</h2>
+        <h2>GROCERY LIST</h2>
+        <ul style="list-style-type: circle">
+            <li>Bread</li>
+            <li>tea</li>
+            <li>milk</li>
+            <li>coffee</li>
+        </ul>
+    </body>
+</html>

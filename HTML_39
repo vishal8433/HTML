@@ -1,0 +1,76 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>information table</title>
+        <style>
+            table,td,th{
+                border: 1px solid black;
+            }
+            table{
+                border-spacing: 5px;
+            }
+            th,td{
+                padding: 10px;
+            }
+            th{
+                text-align: left;
+            }
+            table#t01{
+                width: 100%;
+                background-color: #f2f2d1;
+            }
+        </style>
+    </head>
+    <body>
+        <table style="width: 100%">
+            <caption>DETAILS</caption>
+            <tr>
+                <th>name</th>
+                <th>age</th>
+                <th>mobile number</th>
+            </tr>
+            <tr>
+                <td>vishal jain</td>
+                <td>19</td>
+                <td>8433******</td>
+            </tr>
+            <tr>
+                <td>vishal jain</td>
+                <td>19</td>
+                <td>8433******</td>
+            </tr>
+            <tr>
+                <td>vishal jain</td>
+                <td>19</td>
+                <td>8433******</td>
+            </tr>
+        </table>
+        <table id="t01">
+            <caption>DETAILS</caption>
+            <tr>
+                <th>name</th>
+                <th>age</th>
+                <th>mobile number</th>
+            </tr>
+            <tr>
+                <td>vishal jain</td>
+                <td>19</td>
+                <td>8433******</td>
+            </tr>
+            <tr>
+                <td>vishal jain</td>
+                <td>19</td>
+                <td>8433******</td>
+            </tr>
+            <tr>
+                <td>vishal jain</td>
+                <td>19</td>
+                <td>8433******</td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <!DOCCTYPE html>
+<html>
+    <head>
+        <title>Spell check</title>
+    </head>
+    <body>
+        <h2>Example of disabling spellcheck</h2>
+        <form>
+        <p>
+            <input type="text" spellcheck="false">
+        </p>
+        <p>
+            <textarea spellcheck="false"></textarea>
+        </p>
+        <button type="reset">Reset</button>
+        </form>
+    </body>
+</html>

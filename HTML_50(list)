@@ -1,0 +1,18 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>Description list</title>
+    </head>
+    <body>
+        <h2>Description list</h2>
+        <dl>
+            <dt>Coffee</dt>
+            <dd>-1 kg</dd>
+            <dt>milk</dt>
+            <dd>-1 ltr</dd>
+        </dl>
+    </body>
+</html>

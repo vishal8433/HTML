@@ -1,0 +1,22 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+    <!DOCTYPE html>
+<html>
+    <head>
+        <title>nested list</title>
+    </head>
+    <body>
+        <h2>nested list</h2>
+        <ul>
+            <li>Coffee</li>
+            <li>tea
+                <ul>
+                    <li>Black tea</li>
+                    <li>Green tea</li>
+                </ul>
+            </li>
+            <li>Milk</li>
+        </ul>
+    </body>
+</html>

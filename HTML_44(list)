@@ -1,0 +1,19 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>information list</title>
+    </head>
+    <body>
+        <h2>ordered list</h2>
+        <h2>Grocery list</h2>
+        <ol>
+            <li>Bread</li>
+            <li>tea</li>
+            <li>Milk</li>
+            <li>coffee</li>
+        </ol>
+    </body>
+</html>

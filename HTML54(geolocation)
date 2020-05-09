@@ -1,0 +1,28 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>Lattitude and Longitude</title>
+        <style>
+            
+        </style>
+    </head>
+    <body>
+        <div class ='Ajitech.comN'>Ajitech.com</div>
+        <p>Displaying location using latitude and longitude</p>
+        <button class="Ajitech" onclick="getlocation()">click</button>
+        <p id="demo1"></p>
+        <script>
+            var variable1 = document.getElementById("demo1");
+            function getlocation(){
+                navigator.geolocation.getCurrentPosition(showLoc);
+            }
+            function showLoc(pos){
+                variable1.innerHTML="Latitude: "+pos.coords.latitude+ "<br>Longitude:"+pos.coords.longitude;
+            }
+        </script>
+    </body>
+</html>

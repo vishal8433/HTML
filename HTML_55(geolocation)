@@ -1,0 +1,65 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>error handling</title>
+    </head>
+    <style>
+        Ajitech{
+            font-size: 20px;
+            font-weight: bold;
+            color: #009900;
+            margin-left: 20px;
+        }
+        wds{
+            margin-left: 20px;
+        }
+        p{
+            font-size: 20px;
+            margin-left: 20px;
+        }
+    </style>
+    <body>
+        <div class="Ajitech">Ajitech.com</div>
+        <p>error handling in geolocation</p>
+        <button class="wds" onclick="getlocation()">click</button>
+        <p id="demo1"></p>
+        <script>
+            var variable1=document.getElementById("demo1");
+            function getlocation(){
+                navigator.geolocation.getCurrentPosition(showLoc);
+                
+            }
+            function showLoc(pos){
+                variable1.innerHTML="Latitude:"+pos.coords.latitude;
+                "<br>Longitude:"+pos.coords.longitude;
+            }
+            function errorhandling(err){
+                switch(err.code){
+                    case err.PERMISSION_DENIED:
+                        variable1.innerHTML="The application does"+
+                        "not have permission to make use of"+
+                        "service"
+                        break;
+                    case err.POSITION_UNAVAILABLE:
+                        variable1.innerHTML="The location of this"+
+                        "device is uncertain"
+                        break;
+                    case err.TIMEOUT:
+                        variable1.innerHTML="The request to get "+
+                            "location of user timeout"
+                        break;
+                    case err.UNKNOWN_ERROR:
+                        variable1.innerHTML="Time to fetch "+
+                            "iinformation exceeded the maximum"+
+                            "timeout interval"
+                        break;
+                }
+            }
+        </script>
+    </body>
+    
+</html>

@@ -1,0 +1,19 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>datalist_tag</title>
+    </head>
+    <body>
+        Branch
+    <input list="vj1">
+    <datalist id="vj1">
+        <option value="cse"></option>
+        <option value="mech."></option>
+        <option value="EC"></option>
+        <option value="EE"></option>
+    </datalist>
+    </body>
+</html>

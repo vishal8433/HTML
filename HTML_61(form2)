@@ -1,0 +1,16 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>form</title>
+    </head>
+    <form>
+        select color <input type="color"><br>
+        select date <input type="date"><br>
+        select number<input type="number" min="1" max="10"><br>
+        enter email<input type="email"><br>
+        enter url<input type="url"><br> 
+        <input type="submit">
+    </form>
+</html>

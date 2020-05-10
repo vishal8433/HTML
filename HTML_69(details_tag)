@@ -1,0 +1,16 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>details_tag</title>
+    </head>
+    <body>
+        <details>
+            <summary>Show my details</summary>
+            <p>My name is vishal jain</p>
+            <p>My contact number is 8433******</p>
+            <p>My email address is vishal.jain_cs18@gla.ac.in</p>
+        </details>
+    </body>
+</html>

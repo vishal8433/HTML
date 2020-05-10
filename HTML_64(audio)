@@ -1,0 +1,8 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+<body>
+<audio src="demo2.mp3"  controls></audio>
+</body>
+</html>

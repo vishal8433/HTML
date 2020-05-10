@@ -1,0 +1,11 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>meter_tag</title>
+    </head>
+    <body>
+        status <meter low="40" min="10" max="100" value="50"></meter>
+    </body>
+</html>

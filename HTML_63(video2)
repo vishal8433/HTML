@@ -1,0 +1,10 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+<body>
+<video width="300" height="300" controls="controls">
+<source src="demo1.mp4" type="video/mp4">
+</body>>
+</html>

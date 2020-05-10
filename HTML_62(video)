@@ -1,0 +1,12 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>demo1 video</title>
+    </head>
+    <body>
+        <embed src="demo1.mp4" width="300" height="300" >
+    </body>
+</html>

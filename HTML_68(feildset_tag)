@@ -1,0 +1,19 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>fieldset_tag</title>
+    </head>
+    <body>
+        <fieldset style="width: 300px">
+            <legend>Login form</legend>
+            <form>
+            username <input type="text"><br>
+            password <input type="password"><br>
+            <input type="submit"  value="login">
+            </form>
+        </fieldset>
+    </body>
+</html>

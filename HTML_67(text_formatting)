@@ -1,0 +1,19 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>Text_formating</title>
+    </head>
+    <body>
+        Text formatting HTML tags<br>
+        <em>Em Text format</em><br>
+        <strong>strong text format</strong><br>
+        <code>code text format</code><br>
+        <samp>samp text format</samp><br>
+        <kbd>keyboard text format</kbd><br>
+        <var>variable text format</var><br>
+        <tt>Teletype of text</tt><br>
+        This is <mark>red</mark> color
+    </body>
+</html>

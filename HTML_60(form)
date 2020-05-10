@@ -1,0 +1,20 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>information form</title>
+    </head>
+    <form action="submit.php" method="get">
+        Username:<input type="text"><br>
+        password:<input type="password"><br>
+        Gender:<input type="radio" name="r1">male
+               <input type="radio" name="r1">female<br>
+        Language:<input type="checkbox" name="l1">Hindi
+                 <input type="checkbox" name="l1">English<br>
+        Address:<textarea></textarea><br>
+        <input type="submit" value="register">
+        <input type="reset">
+    </form>
+</html>

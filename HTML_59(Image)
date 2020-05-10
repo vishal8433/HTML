@@ -1,0 +1,12 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>image</title>
+    </head>
+    <body bgcolor="green">
+        <a href="vjimage1.jpg"><img  alt="image loding error" src="vjimage1.jpg" width="300" height="400"></a>
+        <a href="vjimage2.jpg"><img alt="image loding error" src="vjimage2.jpg" width="300" height="400"></a>
+    </body>
+</html>

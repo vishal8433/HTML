@@ -1,0 +1,16 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>figure_and_figurecaption_tag</title>
+    </head>
+    <body>
+        <figure>
+            <img src="vjimage1.jpg" width="300px" height="400px" alt="image loading error">
+            <figcaption>vishal jain image1</figcaption>
+            <img src="vjimage2.jpg" width="300px" height="400px" alt="image loading error">
+            <figcaption>vishal jain image2</figcaption>
+        </figure>
+    </body>
+</html>

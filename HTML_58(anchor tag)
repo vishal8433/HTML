@@ -1,0 +1,15 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>anchor tag</title>
+    </head>
+    <body>
+        <a href="h23.html">click here to go on welcome page</a><br>
+        <hr>
+        <a href="oops%20practice%20set%20solution.pdf">click here to open pdf file.</a>
+
+    </body>
+</html>

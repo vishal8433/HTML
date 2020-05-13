@@ -1,0 +1,20 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>div_tag</title>
+        <style>
+            div{
+                width: 300px;
+                height: 300px;
+                background-color: cornsilk;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            
+        </div>
+    </body>
+</html>

@@ -1,0 +1,21 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <htm>
+    <head>
+        <title>text_formating</title>
+        <style>
+            p{
+                text-transform: capitalize;
+                color: green;
+                font-family:cursive;
+                font-style: italic;
+                font-size: 100px;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <p>this is a webdeveloping site.</p>
+    </body>
+</htm>

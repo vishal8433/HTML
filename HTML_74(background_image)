@@ -1,0 +1,95 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>background_image</title>
+        <style>
+            body{
+                background-image: url(demoimage1.jpg);
+                background-repeat: no-repeat;
+                background-position: right top;
+                background-attachment: fixed;
+            }
+        </style>
+    </head>
+    <body>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+        Ajitech.com<br>
+                
+    </body>
+</html>

@@ -1,0 +1,15 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>linear_gradient</title>
+        <style>
+            body{
+                background-image: radial-gradient(circle,red,green);
+            }
+        </style>
+    </head>
+    <body></body>
+</html>

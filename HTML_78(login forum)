@@ -1,0 +1,32 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>login_forum</title>
+        <style>
+            div{
+                width: 300px;
+                height: 100px;
+                border: solid;
+                background-color: aqua;
+                margin:10px;
+                padding: 2px;
+            }
+            input{
+                border: 1px solid red;
+                padding: 5px;
+                border-radius: 5px;
+                margin: 3px;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            username: <input type="text"><br>
+            password: <input type="password"><br>
+            <input type="submit" value="login"><br>
+        </div>
+    </body>
+</html>

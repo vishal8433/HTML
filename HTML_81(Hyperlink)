@@ -1,0 +1,148 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>Hyperlink</title>
+    </head>
+    <style>
+        div{
+            font-size: 100px;
+            font-weight: bold;
+            font-style: italic;
+            text-transform: capitalize;
+            color: chocolate;
+        }
+        p{
+            color: black;
+            font-style: italic;
+            font-weight: bold;
+            font-size: 30px;
+            text-transform: capitalize;
+            text-align: center;
+        }
+        body{
+            background-color: antiquewhite;
+        }
+        a{
+            text-decoration: none;
+            color: red;
+        }
+        a:hover{
+            color: blue;
+            text-decoration: underline;
+            font-size: 20px
+        }
+    </style>
+    <body>
+        <p>welcome to my website!</p>
+        <div>
+            <marquee direction="left">Ajitech.com</marquee>
+        </div>
+        <a href="home_hyperlink.html">HOME</a>
+        <a href="about_hyperlink.html">ABOUT</a>
+        <a href="contact_hyperlink.html">CONTACT</a>
+    </body>
+</html>
+__________________________________________________________________________________________________________________________
+//home_hyperlink.html
+<html>
+    <head>
+        <title>Home_Page</title>
+    </head>
+    <style>
+        p{
+            color: chocolate;
+            font-size: 50px;
+            font-style: italic;
+            font-weight: bold;
+            text-transform: capitalize;
+            text-align: center;
+        }
+        div{
+            color: green;
+            font-size: 100px;
+            font-style: italic;
+            font-weight: bold;
+            text-transform: capitalize;
+        }
+        body{
+            background-color: antiquewhite;
+        }
+    </style>
+    <body>
+        <p>welcome to the-</p>
+        <div>
+            <marquee direction="left">ajitech.com</marquee>
+        </div>
+    </body>
+</html>
+_______________________________________________________________________________________________________________________
+//about_hyperlink.html
+
+
+<html>
+    <head>
+        <title>About_page</title>
+    </head>
+    <style>
+        .vj1{
+            text-align: center;
+            text-transform: capitalize;
+            color: black;
+            font-size: 50px;
+            font-weight: bold;
+            font-style: italic;
+        }
+        .vj2{
+            text-transform: capitalize;
+            color: black;
+            font-size: 100px;
+            font-weight: bold;
+            text-align: center;
+        }
+        body{
+            background-color: red;
+        }
+    </style>
+    <body>
+        <p class="vj1">welcome to the about page!</p>
+        <p class="vj2">this is a webdeveloping site.</p>
+    </body>
+</html>
+_________________________________________________________________________________________________________________________
+//contact_hyperlink.html
+
+
+
+<html>
+    <head>
+        <title>Contact_Page</title>
+    </head>
+    <style>
+        a{
+            text-align: center;
+            color: chartreuse;
+            font-weight: bold;
+            font-style: italic;
+            font-size: 70px;
+        }
+        body{
+            background-color: antiquewhite;
+        }
+        p{
+            text-transform: capitalize;
+            text-align: center;
+            color: black;
+            font-weight: bold;
+            font-style: italic;
+            font-size: 30px;
+        }
+    </style>
+    <body>
+        <p>welcome to the contact page!</p>
+        <a href="https://github.com/vishal8433"> click here to open contact information</a>
+    </body>
+</html>
+__________________________________________________________________________________________________________________________

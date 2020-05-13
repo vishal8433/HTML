@@ -1,0 +1,38 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  
+  <html>
+    <head>
+        <title>border_style</title>
+        <style>
+            p.p1{
+                border-style: solid;
+            }
+            p.p2{
+                border-style: dotted;
+            }
+            p.p3{
+                border-style: dashed;
+            }
+            p.p4{
+                border-style: groove;
+            }
+            p.p5{
+                border-style: double;
+            }
+            p.p6{
+                border-style: ridge;
+            }
+        </style>
+    </head>
+    <body>
+        <p class="p1">Ajitech.com</p>
+        <p class="p2">Ajitech.com</p>
+        <p class="p3">Ajitech.com</p>
+        <p class="p4">Ajitech.com</p>
+        <p class="p5">Ajitech.com</p>
+        <p class="p6">Ajitech.com</p>
+    </body>
+</html>

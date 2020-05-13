@@ -1,0 +1,14 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>linear_gradient</title>
+        <style>
+            body{
+                background-image: linear-gradient(red,white,green);
+            }
+        </style>
+    </head>
+    <body></body>
+</html>

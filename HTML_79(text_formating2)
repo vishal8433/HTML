@@ -1,0 +1,23 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>text_formating</title>
+    </head>
+    <style>
+        p{
+            color: red;
+            text-transform: capitalize;
+            text-indent: 100px;
+            text-decoration: underline;
+            text-shadow: 20px 20px black;
+            word-spacing: 20px;
+            letter-spacing: 5px;
+            
+        }
+    </style>
+    <body>
+        <p>ajitech.com</p>
+    </body>
+</html>

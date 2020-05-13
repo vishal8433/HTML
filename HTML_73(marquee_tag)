@@ -1,0 +1,23 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>marquee_tag</title>
+    </head>
+    <style>
+        div{
+            width: 100%;
+            height: 40px;
+            background-color: blanchedalmond;
+        }
+    </style>
+    <body>
+        <div>
+            <marquee direction="right" >
+                AJITECH.COM<br>
+                (a webdeveloping site)
+            </marquee>
+        </div>
+    </body>
+</html>

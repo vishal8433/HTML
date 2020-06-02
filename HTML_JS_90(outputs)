@@ -1,0 +1,25 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  
+  <html>
+    <head>
+    <title>Javascript_Outputs</title>
+    </head>
+    <script>
+        function my(a,b) {
+            //document.getElementById("vj").innerHTML="Ajitech.com" ;
+            //document.write(a*b);
+            return a*b;
+        }
+        function display() {
+            //document.write(my(8,8));
+            document.getElementById("vj").innerHTML=my(8,8);
+        }
+    </script>
+    <body>
+        <p id="vj"></p>
+        <button onclick="display() ;">click here</button>
+    </body>
+</html>

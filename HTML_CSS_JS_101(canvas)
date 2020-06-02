@@ -1,0 +1,28 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>canvas</title>
+        <style>
+            canvas{
+                border: 2px solid red; 
+            }
+        </style>
+        <script>
+            function dis(){
+                var v=document.getElementById("canvas");
+                var con=v.getContext("2d");
+                con.fillStyle="red";
+                con.fillRect(10,10,100,100);
+                con.fillStyle="blue";
+                con.fillText("hello",50,50);
+                con.strokeText("world",100,100);
+            }
+        </script>
+    </head>
+    <body>
+        <canvas id="canvas"></canvas><br>
+        <button onclick="dis();">click here</button>
+    </body>
+</html>

@@ -1,0 +1,23 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>array</title>
+        <script>
+           function array(){
+                var car=["a","b","c","d"];
+                var age=[44,26,22,26];
+                var sum=0;
+                    for(var i=0;i<4;i++){
+                         sum=sum+age[i];
+                         }
+                document.write(sum);
+            }
+        </script>
+    </head>
+    <body>
+       <button onclick="array() ;">click here</button><br>
+    </body>
+</html>

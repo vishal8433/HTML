@@ -1,0 +1,24 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>If_Else</title>
+    <script>
+        function display(){
+            var v=10;
+            if(v<15)
+                {
+                    document.write("a is less  then 15");
+                }
+            else{
+                document.write("a is greater than 15 ");
+            }
+        }
+    </script>
+    </head>
+    <body>
+        <button onclick="display();">click here</button>
+    </body>
+</html>

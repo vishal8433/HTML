@@ -1,0 +1,48 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>form_processing</title>
+        <script>
+            function display(){
+                var name_value=document.forms["mf"]["t1"].value;
+                var gender_value=document.forms["mf"]["vj"].value;
+                var praogramming_language_value=document.getElementById("vj3").value;
+                document.write(name_value);
+                document.write(gender_value);
+                if(document.forms["mf"]["vj1"].checked)
+                   {
+                   document.write(document.forms["mf"]["vj1"].value);
+                   }
+                if(document.forms["mf"]["vj2"].checked)
+                    {
+                        document.write(document.forms["mf"]["vj2"].value);
+                    }
+                document.write(praogramming_language_value);
+            }
+        </script>
+    </head>
+    <body>
+        <form id="mf">
+            name<input type="text" id="t1" ><br>
+            gender<input type="radio"  id="vj" name="l"value="male">Male
+            <input type="radio"  id="vj" name="l" value="female">Female<br>
+            Language
+            <input type="checkbox" id="vj1"  value="hindi">Hindi
+            <input type="checkbox" id="vj2"  value="english">English<br>
+            Programming language
+            <select id="vj3">
+            <option  value="c">C</option>
+            <option value="java">JAVA</option>
+            <option value="python">PYTHON</option>
+            <option value="html">HTML</option>
+            <option value="css">CSS</option>
+            <option value="javascript">Javascript</option>
+
+            </select>
+        </form>
+        <button onclick="display() ;">submit</button>
+    </body>
+</html>

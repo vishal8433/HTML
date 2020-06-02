@@ -1,0 +1,32 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>image_javascript</title>
+    </head>
+    <script>
+        function dis()
+        {
+            document.getElementById("vj").style.display="none" ;
+        }
+        function dis2()
+        {
+            document.getElementById("vj").style.display="block" ;
+        }
+        function dis3()
+        {
+            document.getElementById("vj1").innerHTML="Er. vishal jain" ;
+            document.getElementById("vj1").style.fontSize="100px" ;
+        }
+    </script>
+    <body>
+        <img id="vj" src="vjimage1.jpg" width="300px" height="400px">
+        <br>
+        <button onclick="dis() ;">hide</button>
+        <button onclick="dis2() ;">show</button>
+        <button onclick="dis3() ;">click here</button>
+        <p id="vj1">hello</p>
+    </body>
+</html>

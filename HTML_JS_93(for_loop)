@@ -1,0 +1,19 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>for_loop</title>
+        <script>
+            function display(){
+             for(var i=0;i<10;i++){
+                document.write("Ajitech.com");
+            }
+            }
+        </script>
+    </head>
+    <body>
+        <button onclick="display();">click here</button>
+    </body>
+</html>

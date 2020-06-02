@@ -1,0 +1,26 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>Login_form</title>
+        <script>
+            function  check(){
+                var u=document.getElementById("user").value;
+                var p=document.getElementById("pass").value;
+                if(u=="abc" && p=="122"){
+                    document.getElementById("Ajitech").innerHTML="Login Correct!Welcome to the Ajitech.com";
+                }
+                else{
+                    document.getElementById("Ajitech.com").innerHTML="Login Error! Gmail id and password does not matched!";
+                }
+            }            
+        </script>
+    </head>
+    <body>
+        <p id="Ajitech"></p>
+        username<input type="text" id="user"><br>
+        password<input type="password" id="pass"><br>
+        <button onclick="check();">login</button>
+    </body>
+</html>

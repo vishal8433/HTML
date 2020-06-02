@@ -1,0 +1,50 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>Type_conversion</title>
+        <script>
+            function dis(){
+               /* const PI=3.141;
+                alert(PI);*/
+                
+                
+                /*var car ={type:"BMW",model:"ROLES_ROYES",color:"GOLDEN"};
+                alert(car.model);*/
+                
+                
+                /*var no =123;
+                var str=no.toString();
+                alert(str);*/
+                
+                
+                //alert((123).toString());
+                
+                
+             /*   var x=3;
+                alert(x.toExponential(2));*/
+                
+                
+               /* var x=5.552199;
+                alert(x.toFixed(2));*/
+                
+                
+               /* var x=5.232325;
+                alert(x.toPrecision(3));*/
+                
+                
+                
+              /*  var b="123";
+                alert(b.valueOf());*/
+                
+                
+                var m="123";
+                alert(parseInt(m));
+            }
+        </script>
+    </head>
+    <body>
+       <button onclick="dis();">click me!!</button> 
+    </body>
+</html>

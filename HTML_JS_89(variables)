@@ -1,0 +1,22 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>Javascript_variable</title>
+    </head>
+    <script>
+        function myfun() {
+            var a=8;
+            var b="Ajitech.com"
+            var c=8;
+            document.write(b);
+            window.alert(a*c);
+        }
+    </script>
+    <body>
+        <p id="vj"></p>
+        <button onclick="myfun() ;">click here</button>
+    </body>
+</html>

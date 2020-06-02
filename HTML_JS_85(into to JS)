@@ -1,0 +1,18 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>javascript</title>
+        <script>
+            function display() {
+                document.getElementById("vj").innerHTML="Hello world!"
+            }
+        </script>
+    </head>
+    <body>
+        <p id="vj"></p>
+        <button onclick="display();">click</button>
+    </body>
+</html>

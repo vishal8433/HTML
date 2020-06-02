@@ -1,0 +1,36 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>validation</title>
+        <script>
+            function vj(){
+                var name=document.vishal.t1.value;
+                if(name==""){
+                    alert("please enter the value in textbox");
+                }
+                else{
+                    alert("entered value is ok");
+                }
+                var number=document.vishal.t2.value;
+                if(isNaN(number)){
+                        alert("please enter number value only");
+                        }
+                else if(number.length==10){
+                            alert("number is okk");
+                        }
+                else{
+                    alert("enter only 10 digits!!");
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <form name="vishal">
+            name<input type="text" name="t1"><br>
+            number<input type="text" name="t2"><br>
+            <button onclick="vj();">submit</button>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>image_javascript</title>
+    </head>
+    <script>
+        function dis()
+        {
+            document.getElementById("vj").src="vjimage2.jpg " ;
+        }
+        function dis2()
+        {
+            document.getElementById("vj").src="vjimage1.jpg " ;
+        }
+    </script>
+    <body>
+        <img id="vj" src="vjimage1.jpg" width="300px" height="400px">
+        <br>
+        <button onclick="dis() ;">click here</button>
+        <button onclick="dis2() ;">click here</button>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>Array2</title>
+        <script>
+            function display() {
+                var employee= new array("vishal","anuj","kartik");
+                document.write(employee[0]);
+            }
+        </script>
+    </head>
+    <body>
+        <button onclick="display();">click here</button>
+    </body>
+</html>

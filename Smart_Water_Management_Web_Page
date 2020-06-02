@@ -1,0 +1,154 @@
+//created by -VISHAL JAIN
+//editor-Bracket
+
+
+<html>
+    <head>
+        <title>smart water management</title>
+        <style>
+            .s1{
+                background-color:cornsilk;
+            }
+            .s2{
+                font-size: 100px;
+                background-color: burlywood;
+                color: crimson;
+            }
+            .s3{
+                color: green;
+                background-color:beige;
+            }
+            table{
+                text-align: center;
+                border: 1px solid black;
+                background-color:antiquewhite;
+            }
+            th{
+                text-align: center;
+                border: 1px solid black;
+                color: crimson;
+            }
+            td{
+                text-align: center;
+                border: 1px solid black;
+                color:black;
+            }
+            .s4{
+                color: brown;
+                font-size: 50px;
+                background-color: cornsilk;
+            }
+            .s5{
+                color: blue;
+                font: 100px;
+                text-align: center;
+                background-color: burlywood;
+            }
+            
+        </style>
+    </head>
+    <body class="s1">
+        <div class="s2">
+            <marquee direction="left">
+                Smart Water Management
+            </marquee>
+        </div>
+        <h1 class="s3">Hardware costing-</h1>
+        <table style="width: 100%">
+            <tr >
+                <th>S.NO.</th>
+                <th>Device Name</th>
+                <th>Price(in rupees)</th>
+                <th>Quantity</th>
+                <th>Total Price</th>
+                <th>Life Span</th>
+                <th>Resources</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Ultrasonic waterproof sensor</td>
+                <td>356.58</td>
+                <td>16</td>
+                <td>5705.32</td>
+                <td>NA</td>
+                <td><a href="https://www.aliexpress.com/item/32737648330.html?spm=a2g0o.productlist.0.0.491f6ec0PpcidM&algo_pvid=a2966287-7748-4d40-a4a6-aecd5f75b1da&algo_expid=a2966287-7748-4d40-a4a6-aecd5f75b1da-2&btsid=0ab6fb8815911158565995266e142b&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_">click here</a></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>1-chennel Relay</td>
+                <td>39.03</td>
+                <td>17</td>
+                <td>663.51</td>
+                <td>NA</td>
+                <td><a href="https://www.aliexpress.com/item/4001022991036.html?spm=a2g0o.productlist.0.0.3bd760faH1nZp9&algo_pvid=36113a3f-9949-4267-a498-b1d18e51be57&algo_expid=36113a3f-9949-4267-a498-b1d18e51be57-4&btsid=0be3764515911165404901091e81f0&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_">click here</a></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Node MCU(ESP8266)</td>
+                <td>151.64</td>
+                <td>17</td>
+                <td>2577.88</td>
+                <td>NA</td>
+                <td><a href="https://www.aliexpress.com/item/32665100123.html?spm=a2g0o.productlist.0.0.140a6da04plYzb&algo_pvid=39af2eac-47f7-4a6a-a9ab-65c7ca8de313&algo_expid=39af2eac-47f7-4a6a-a9ab-65c7ca8de313-0&btsid=0ab6d67915911168929517890e6ee8&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_">click here</a></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>PH Sensor</td>
+                <td>356.58</td>
+                <td>1</td>
+                <td>356.58</td>
+                <td>NA</td>
+                <td> <a href="https://www.aliexpress.com/item/32737648330.html?spm=a2g0o.productlist.0.0.4d0c67a5NRtGjZ&algo_pvid=92728d35-8a98-4f4e-8dd5-f3cdfeb0afb0&algo_expid=92728d35-8a98-4f4e-8dd5-f3cdfeb0afb0-0&btsid=0ab6f82c15911177900913100efbcc&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_">click here</a></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>turbidity Sensor</td>
+                <td>540.50</td>
+                <td>1</td>
+                <td>540.50</td>
+                <td>NA</td>
+                <td> <a href="https://www.aliexpress.com/item/4000460829861.html?spm=a2g0o.productlist.0.0.7d838cf954ipvg&algo_pvid=5df1bd29-3406-4890-acad-a86935432ab4&algo_expid=5df1bd29-3406-4890-acad-a86935432ab4-0&btsid=0be3746c15911172668215028e5c31&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_">click here</a></td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>water flow Sensor</td>
+                <td>184.67</td>
+                <td>1</td>
+                <td>184.67</td>
+                <td>NA</td>
+                <td> <a href="https://www.aliexpress.com/item/32890872253.html?spm=a2g0o.productlist.0.0.5b205e6dEmfoC3&algo_pvid=b4abbfdf-c3e7-443b-a015-736b8a1b8ed2&algo_expid=b4abbfdf-c3e7-443b-a015-736b8a1b8ed2-2&btsid=0ab50a5715911181044073816eb03e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+">click here</a></td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Adaptor</td>
+                <td>246</td>
+                <td>17</td>
+                <td>4182</td>
+                <td>NA</td>
+                <td> <a href="https://www.aliexpress.com/item/32722341492.html?spm=a2g0o.productlist.0.0.373a6550VOWtlw&algo_pvid=5674125a-f8b8-4b36-a706-7148ebda9c6c&algo_expid=5674125a-f8b8-4b36-a706-7148ebda9c6c-0&btsid=0ab6fab215911187922791296ee332&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_">click here</a></td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Router(range-5GHZ)</td>
+                <td>999</td>
+                <td>1</td>
+                <td>999</td>
+                <td>NA</td>
+                <td> <a href="https://www.amazon.in/iBall-WRB-303N-Router-Not-Modem/dp/B077TVF6G8/ref=sr_1_4?crid=34RQBWK6D3WU3&dchild=1&keywords=iball+router&qid=1591119794&sprefix=iball+r%2Caps%2C326&sr=8-4">click here</a></td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Smart Water Meter</td>
+                <td>1337.74</td>
+                <td>1</td>
+                <td>1337.74</td>
+                <td>NA</td>
+                <td> <a href="https://www.aliexpress.com/item/4000281026669.html?spm=a2g0o.productlist.0.0.5a045b94d4nBq3&algo_pvid=5569056f-0fde-4165-96f2-a65b34b9b75b&algo_expid=5569056f-0fde-4165-96f2-a65b34b9b75b-1&btsid=0ab6f82115911201330107995e1a21&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_">click here</a></td>
+            </tr>
+
+        </table>
+        <h1 class="s4">Total Hardware Cost-16,547.20 Rupees-/</h1>
+        <h1 class="s5">THANK YOU!</h1>
+    </body>
+</html>

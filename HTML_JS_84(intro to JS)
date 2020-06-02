@@ -1,0 +1,15 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>intro_javascript</title>
+        
+    </head>
+    <body>
+        <p id="vj"></p>
+        <script>
+            document.getElementById("vj").innerHTML="Hello!"
+        </script>
+    </body>
+</html>

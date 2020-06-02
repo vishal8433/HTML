@@ -1,0 +1,21 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  
+  <html>
+    <head>
+        <title>do_while</title>
+        <script>
+            function display(){
+                var vj=0;
+                do{
+                    document.write(vj);
+                    vj++
+                }while(vj<10)
+            }
+        </script>
+    </head>
+    <body>
+        <button onclick="display();">click here</button>
+    </body>
+</html>

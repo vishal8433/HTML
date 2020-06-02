@@ -1,0 +1,26 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <html>
+    <head>
+        <title>switch_case</title>
+    <script>
+        function display(){
+            var vj=1;
+            switch(vj){
+                case 0:
+                    document.write("light is OFF!");
+                    break;
+                case 1:
+                    document.write("light is ON!");
+                    break;
+                default:
+                    document.write("enter the proper value");
+            }
+        }
+    </script>        
+    </head>
+    <body>
+        <button onclick="display() ;">click me</button>
+    </body>
+</html>

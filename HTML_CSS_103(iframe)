@@ -1,0 +1,13 @@
+/*created by-vishal jain
+  editor-brackets app*/
+  
+  <!DOCTYPE html>
+<html>
+    <head>
+        <title>iframe</title>
+    </head>
+    <body>
+        <h1>content video</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/FCKOCjUcpdw" frameborder="10" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </body>
+</html>

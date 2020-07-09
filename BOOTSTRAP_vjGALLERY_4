@@ -1,0 +1,247 @@
+//created by-vishal jain
+//editor-BRACKETS
+//date-10-07-2020
+//warning-you should have your all files related to your project in same project folder
+
+____________________________________________________________________________________________________________________________________________________________________________
+//file name-index.html
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+      <div class="fluid-container">
+    <nav class="navbar navbar-toggleable-md navbar navbar-inverse bg-inverse">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+        <a class="navbar-brand" href="#">
+    <img src="ajitech.com_logo2.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
+    vjGALLERY
+  </a>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#">pictures</a>
+        </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Photographer information
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="#">Contact information</a>
+          <a class="dropdown-item" href="#">Phtographer bio</a>
+          <a class="dropdown-item" href="#">photographer exeperience</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div class="section-light">
+      <div class="row">
+          <div class="col-sm-12">
+              <div class="jumbotron jumbotron-fluid">
+                    <div class="container">
+                        <h1 class="display-3">Welcome to the vjGALLERY</h1>
+                        <p class="lead">vjGALLERY have different types of  awesome pictures for YOU. </p>
+                    </div>
+            </div>
+
+            </div>
+        </div>
+    <div class="row">
+        <div class="col"></div>
+        <div class="col-sm-12 col-md-6">
+            <div id="maincacarousel" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active">
+                        <img class="d-block img-fluid" src="s1.jpg" alt="First slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block img-fluid" src="s2.jpg" alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block img-fluid" src="s3.jpg" alt="Third slide">
+                    </div>
+                                        <div class="carousel-item">
+                        <img class="d-block img-fluid" src="s4.jpg" alt="fourth slide">
+                    </div>
+                                        <div class="carousel-item">
+                        <img class="d-block img-fluid" src="s5.jpg" alt="fifth slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block img-fluid" src="s6.jpg" alt="sixth slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block img-fluid" src="s7.jpg" alt="seventh slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block img-fluid" src="s8.jpg" alt="eight slide">
+                    </div>
+                    <div class="carousel-item">
+                        <img class="d-block img-fluid" src="s9.jpg" alt="ninth slide">
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#maincacarousel" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#maincacarousel" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>    
+        </div>
+        <div class="col"></div>
+    </div>
+</div>
+          <!--section two-->
+          <div class="section-dark">
+              <div class="row">
+                  <div class="col-sm-12 col-md-1 offset-md-2">
+                      <img class="img-fluid" src="ajitech.com_logo2.jpg">
+                  </div>
+              <div class="col-sm-12 col-md-6">
+                  <div class="row">
+                      <div class="col-sm-12">
+                          <p>
+                              Jiski aankho se adaa meri ajaan hoti h,<br>
+                              Us 'MAA' ke pero si jannat duniyaa m or khaa hoti h...<br>
+                              M mandir,masjid,gurudware kyu jaau?<br>
+                              Wha par meri 'MAA' khaa hoti h?<br>
+                              Wo mujhse pooch rhe thi...<br>
+                              Collage se acha ghar par kyu lagta h?<br>
+                              Maine has kar keh diyaa...<br>
+                              Ki ghar par meri 'MAA' hoti h.<br>
+                          </p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-sm-12 col-md-9">
+                          <p>- VISHAL JAIN</p>
+                      </div>
+                      <div class="col-sm-12 col-md-3">
+                          <img class="img-fluid" src="pro.jpg"
+                      </div>
+                  </div>
+              </div>
+              <div class="col"></div>
+          </div>
+              </div>
+              <div class="row">
+                      <div class="col-sm-12">
+                          <div class="coolstuffwraper">
+                              <button type="button" class="btn btn-lg coolstuffbtn" data-toggle="modal" data-target="#hearttouchingmodal">Heart touching stuff</button>
+                          </div>
+                      </div>
+                  </div>
+              
+              
+              <!-- herat touching lines Modal -->
+<div class="modal fade" id="hearttouchingmodal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="hearttouchingLabel">Get Exclusive content</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="container fluid">
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+                    <img class="img-fluid" src="ajitech.com_logo2.jpg"> 
+                </div>
+                <div class="col-sm-12 col-md-6">
+                    <h3 class="slogan">vjGALLERY</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                <div class="modalformwrapper">
+                    <form>
+  <div class="form-group">
+    <label for="forname">what's your name?</label>
+    <input type="text" class="form-control" id="name" placeholder="name">
+  </div>
+  <div class="form-group">
+    <label for="email">where should we send your heart touching content?</label>
+    <input type="text" class="form-control" id="email" placeholder="email">
+  </div>
+</form>
+                </div>
+            </div>
+                </div>
+          </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
+________________________________________________________________________________________________________________________________________________________________________________
+//file name-style.css
+
+.jumbotron.jumbotron-fluid{
+    background: none;
+    text-align: center;
+}
+
+.section-light{
+    background-color:azure;
+    padding: 2em;
+}
+.section-dark{
+    background-color: lightgray;
+    padding: 2em;
+}
+
+.coolstuffwraper{
+    margin-top: 20px;
+}
+
+button.coolstuffbtn{
+    background-color: red;
+    color: white;
+    display: block;
+    margin: auto;
+}
+h5.modal-title{
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+.slogan{
+    color: red;
+    background-color: none;
+    padding-top: 50px;
+    font-size: 45px;
+    padding-left: 0px;
+}
+
+.modalformwrapper{
+    padding: 2rem;
+}
+
